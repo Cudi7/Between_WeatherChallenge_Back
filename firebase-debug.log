@@ -1,0 +1,21 @@
+[debug] [2022-09-06T11:36:38.486Z] ----------------------------------------------------------------------
+[debug] [2022-09-06T11:36:38.488Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\codin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-09-06T11:36:38.489Z] CLI Version:   11.8.0
+[debug] [2022-09-06T11:36:38.489Z] Platform:      win32
+[debug] [2022-09-06T11:36:38.489Z] Node Version:  v16.17.0
+[debug] [2022-09-06T11:36:38.491Z] Time:          Tue Sep 06 2022 13:36:38 GMT+0200 (Central European Summer Time)
+[debug] [2022-09-06T11:36:38.492Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-09-06T11:36:38.505Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-09-06T11:36:38.505Z] > authorizing via signed-in user (codinaroger2@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\codin\Desktop\weather-challenge\back
+
